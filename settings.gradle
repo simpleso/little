@@ -1,0 +1,1 @@
+include ':app', ':little_annotations', ':little_compiler', ':little_core', ':little_ui', ':little_other'
